@@ -19,5 +19,3 @@
 ## Projects
 I’m currently working on small projects and learning through experimentation. More projects coming soon!
 
-## GitHub Stats
-![Somil's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
