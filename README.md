@@ -1,9 +1,11 @@
 # Hi, I'm Somil Gupta 👋
 
 ## About Me
+- 🎓 Undergraduate student at IIIT Delhi pursuing Computer Science with Applied Mathematics
 - 🌱 Currently learning and improving my programming skills
 - 🔧 Interested in embedded systems and low-level software
 - 📚 Exploring projects to gain practical experience
+- 🎯 Looking to build a career in system software and processor/semiconductor-focused companies
 
 ## Tech Stack
 - C / C++
@@ -16,6 +18,4 @@
 - Writing cleaner, maintainable code
 - Improving testing and documentation in projects
 
-## Projects
-I’m currently working on small projects and learning through experimentation. More projects coming soon!
 
