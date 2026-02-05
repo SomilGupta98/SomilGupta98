@@ -11,6 +11,7 @@
 - C / C++
 - Python
 - SQL
+- Machine Learning
 
 ## Current Focus
 - Open-source contributions
