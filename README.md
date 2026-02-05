@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Somil Gupta 👋
 
-<!--
-**SomilGupta98/SomilGupta98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 Currently learning and improving my programming skills
+- 🔧 Interested in embedded systems and low-level software
+- 📚 Exploring projects to gain practical experience
 
-Here are some ideas to get you started:
+## Tech Stack
+- C / C++
+- Python
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Open-source contributions
+- Embedded & systems programming
+- Writing cleaner, maintainable code
+- Improving testing and documentation in projects
+
+## Projects
+I’m currently working on small projects and learning through experimentation. More projects coming soon!
+
+## GitHub Stats
+![Somil's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
